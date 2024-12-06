@@ -23,7 +23,7 @@ This project is a responsive landing page for Hoobank, built using React with th
 <h3>Follow these steps to set up the project locally:</h3>
 Clone the repository:<br/>
 git clone https://github.com/Rupak-25/HooBank-UI-Landing-Page.git<br/>
-cd hoobank-landing-page<br/>
+cd HooBank-UI-Landing-Page<br/>
 
 <h1>Install the dependencies:</h1>
 npm install or yarn install<br/>
